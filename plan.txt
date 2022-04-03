@@ -1,0 +1,8 @@
+interface Generator
+- Maze generate(int w, int h, DisplayData d)
+
+class Display
+- display(Maze m)
+
+class Cell
+- 
